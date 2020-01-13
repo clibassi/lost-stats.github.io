@@ -10,6 +10,7 @@ nav_order: 1
 There are two main ways to combine data: [vertically](https://lost-stats.github.io/Data_Manipulation/Combining_Datasets/combining_datasets_vertical_combination.html) and [horizontally](hhttps://lost-stats.github.io/Data_Manipulation/Combining_Datasets/combining_datasets_horizontal_merge_deterministic.html). That is, you can want to combine observations (adding new variables) or combine variables (adding new observations). This is perhaps easiest to show visually: 
 
 Individual Name Info
+
 |Name| ID |
 |--|--| 
 |John Smith|A63240|
@@ -17,6 +18,7 @@ Individual Name Info
 
 
 Individual Age Info
+
 |ID | Age | 
 |--|--| 
 |B78242|22|
